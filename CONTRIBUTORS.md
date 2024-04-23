@@ -1,0 +1,1 @@
+Logan Reynolds helped me on this project, he helped with the code and for the presentation we split the work evenly, for the coding portion he worked on the main and implementing GFG which is dijkstra's and other subclasses that utilize it.
