@@ -1,0 +1,20 @@
+Test 1: The shorted path from node :
+Spain to Spain is 0 miles
+Spain to Italy is 267094443 miles
+Spain to France is 267094443 miles
+Spain to Iraq is 267094443 miles
+Spain to China is 267094443 miles
+
+Process finished with exit code 0 
+
+First test did not work, Node was set to something else had to fix input for Node so that it worked with the entire class. Node orginally had a String and int input but String did not work with dist or 
+GFG because of the initlizer. Simple fix of changing it to a int made it work. 
+
+Test 2: The shorted path from node :
+0 to 0 is 0 miles
+0 to 1 is 8 miles
+0 to 2 is 6 miles
+0 to 3 is 5 miles
+0 to 4 is 3 miles
+
+Process finished with exit code 0
